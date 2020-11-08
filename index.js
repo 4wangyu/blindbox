@@ -305,6 +305,7 @@ var randomlinks = [
   'https://www.adultswim.com/etcetera/soup/',
   'https://david.li/fluid/',
   'https://david.li/flow/',
+  'https://domenicobrz.github.io/webgl/projects/glass-absorption/',
 ];
 
 function randomlink() {
