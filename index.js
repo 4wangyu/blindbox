@@ -306,6 +306,7 @@ var randomlinks = [
   'https://david.li/fluid/',
   'https://david.li/flow/',
   'https://domenicobrz.github.io/webgl/projects/glass-absorption/',
+  'https://100.antfu.me/',
 ];
 
 function randomlink() {
