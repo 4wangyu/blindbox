@@ -308,6 +308,7 @@ var randomlinks = [
   'https://domenicobrz.github.io/webgl/projects/glass-absorption/',
   'https://100.antfu.me/',
   'http://www.species-in-pieces.com/',
+  'https://oskarstalberg.com/Townscaper',
 ];
 
 function randomlink() {
