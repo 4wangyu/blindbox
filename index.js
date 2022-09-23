@@ -309,6 +309,7 @@ var randomlinks = [
   'https://100.antfu.me/',
   'http://www.species-in-pieces.com/',
   'https://oskarstalberg.com/Townscaper',
+  'https://musicforprogramming.net',
 ];
 
 function randomlink() {
