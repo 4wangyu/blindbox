@@ -310,6 +310,7 @@ var randomlinks = [
   'http://www.species-in-pieces.com/',
   'https://oskarstalberg.com/Townscaper',
   'https://musicforprogramming.net',
+  'https://lab.magiconch.com/sakana/',
 ];
 
 function randomlink() {
