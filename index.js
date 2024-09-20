@@ -311,6 +311,7 @@ var randomlinks = [
   'https://oskarstalberg.com/Townscaper',
   'https://musicforprogramming.net',
   'https://lab.magiconch.com/sakana/',
+  'https://franzelio.franzai.com',
 ];
 
 function randomlink() {
