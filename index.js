@@ -312,6 +312,7 @@ var randomlinks = [
   'https://musicforprogramming.net',
   'https://lab.magiconch.com/sakana/',
   'https://franzelio.franzai.com',
+  'https://dement.dev/',
 ];
 
 function randomlink() {
