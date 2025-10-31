@@ -313,6 +313,7 @@ var randomlinks = [
   'https://lab.magiconch.com/sakana/',
   'https://franzelio.franzai.com',
   'https://dement.dev/',
+  'https://neal.fun/',
 ];
 
 function randomlink() {
